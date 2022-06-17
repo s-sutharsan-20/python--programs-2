@@ -1,0 +1,17 @@
+list1=[4,4,5,8,4]
+list2=[6,3,2,3,7]
+list1.append(2)
+print(list1)
+list1.extend(list2)
+print(list1)
+print(list1.index(4))
+list1.remove(4)
+print(list1)
+list1.reverse()
+print(list1)
+print(list1.sort())
+print(list1.copy())
+print(list1.count(4))
+print(sum(list1))
+print(min(list1))
+print(max(list1))
