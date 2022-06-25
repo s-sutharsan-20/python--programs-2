@@ -1,2 +1,2 @@
 # python--programs-2
-This repositors contains python programs
+Small python programs will be uploaded in this repo 
